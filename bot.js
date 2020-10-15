@@ -30,7 +30,7 @@ message.channel.send('#daily')
 message.channel.send('#credits')
   }
   if(message.content ===  'u1'){
-message.channel.send("©angryblack YT")
+message.channel.send("#credits "+"<@" + myid + ">")
   }     
   if(message.content === 'r1'){
 message.channel.send("#rep "+"<@" + myid + ">")
@@ -90,7 +90,7 @@ message.channel.send('#daily')
 message.channel.send('#credits')
   }
   if(message.content ===  'u1'){
-message.channel.send("©angryblack YT")
+message.channel.send("#credits "+"<@" + myid + ">")
   }     
   if(message.content === 'r4'){
 message.channel.send("#rep "+"<@" + myid + ">")
